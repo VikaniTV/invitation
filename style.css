@@ -3,6 +3,12 @@ html {
     text-align: center;
 }
 
+.center {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 .momo {
     color: #FEAE6F;
     font-family: "Cedarville Cursive", cursive;
