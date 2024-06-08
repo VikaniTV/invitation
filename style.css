@@ -1,0 +1,30 @@
+html {
+    background-color: #FFE8C5;
+    text-align: center;
+}
+
+.momo {
+    color: #FEAE6F;
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+}
+
+#size {
+    font-size: 25px;
+}
+.size0{ 
+    font-size: 20px;
+}
+
+.size1 {
+    font-size: 25px;
+}
+
+.size2 {
+    font-size: 60px;
+    line-height: 20px;
+}
+
+.size3 {
+    font-size: 40px;
+}
